@@ -1,0 +1,22 @@
+{
+	"name": "Hlclone",
+	"speakableName": "HLC clone",
+	"version": "0.0.1",
+	"icon": "fab fa-battle-net",
+	"category": "entertainment",
+	"author": "Psychokiller1888",
+	"maintainers": [],
+	"desc": "You don'thave leds connected to Alice but still want visual feedbacks? This is for you! It adds a widget that mimics the Hermes Led Control behavior on your screen.",
+	"aliceMinVersion": "1.0.0-rc2",
+	"pipRequirements": [],
+	"systemRequirements": [],
+	"conditions": {
+		"lang": [
+			"fr",
+			"de",
+			"it",
+			"pl",
+			"en"
+		]
+	}
+}
