@@ -109,7 +109,6 @@ class Hlclone_Hlclone extends Widget {
 			return
 		}
 		this._image[index] = color
-		console.log(this._image)
 	}
 
 	show() {

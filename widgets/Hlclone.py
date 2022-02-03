@@ -6,7 +6,7 @@ from core.webui.model.WidgetSizes import WidgetSizes
 
 class Hlclone(Widget):
 
-	DEFAULT_SIZE = WidgetSizes.w_small
+	DEFAULT_SIZE = WidgetSizes.w
 	DEFAULT_OPTIONS: dict = dict()
 
 	def __init__(self, data: sqlite3.Row):
