@@ -1,8 +1,8 @@
 {
 	"name": "Hlclone",
 	"speakableName": "HLC clone",
-	"version": "1.0.1",
-	"icon": "fab fa-battle-net",
+	"version": "1.0.2",
+	"icon": "fas fa-user-alien",
 	"category": "entertainment",
 	"author": "Psychokiller1888",
 	"maintainers": [],
